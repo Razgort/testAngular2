@@ -1,0 +1,20 @@
+[36mBuilt-in Atom themes[39m (12)
+├── atom-dark-syntax@0.27.0
+├── atom-dark-ui@0.51.0
+├── atom-light-syntax@0.28.0
+├── atom-light-ui@0.43.0
+├── base16-tomorrow-dark-theme@1.1.0
+├── base16-tomorrow-light-theme@1.1.1
+├── one-dark-syntax@1.1.2
+├── one-dark-ui@1.1.9
+├── one-light-syntax@1.1.2
+├── one-light-ui@1.1.9
+├── solarized-dark-syntax@0.39.0
+└── solarized-light-syntax@0.23.0
+
+[36mC:\Users\Razgort\.atom\packages[39m (4)
+├── brogrammer-syntax@1.0.0
+├── brogrammer-ui@1.0.0
+├── monokai-seti@0.7.0
+└── seti-ui@0.8.1
+
